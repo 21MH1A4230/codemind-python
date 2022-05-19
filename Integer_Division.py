@@ -1,2 +1,4 @@
 x=int(input())
-print(x//10)
+a=x//10
+import math
+print(math.floor(a))
